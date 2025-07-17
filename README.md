@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Anushka Upadhyay!!
+## Hi there 👋 I'm Anushka !!
  📫 How to reach me: abanushka678@gmail.com
 <!--
 **abanushkaa/abanushkaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
