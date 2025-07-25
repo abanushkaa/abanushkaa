@@ -32,8 +32,8 @@
     <img height="150em" src="https://leetcard.jacoblin.cool/Spectrum444?theme=dark&font=PT%20Serif&ext=contest" alt="LeetCode stats" />
   </a>
    <!-- GitHub Profile Card -->
-  <a href="https://github.com/devyansh7887">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=devyansh7887&show_icons=true&theme=dark" alt="GitHub stats" />
+  <a href="https://github.com/abanushkaa">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=abanushkaa&show_icons=true&theme=dark" alt="GitHub stats" />
   </a>
   <!-- GeeksforGeeks Profile Card -->
   <a href="https://www.geeksforgeeks.org/user/abanushyveq/">
