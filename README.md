@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anushka Baranwal</h1>
 <p align="center">
-  <img width="800em" src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Emerging+Software+Engineer..;Open-Source+Enthusiast..;AI+Innovator..;Data+Science+Enthusiast..;Problem+Solver..;Nice+To+Meet+You+....&center=true" />
+  <img width="800em" src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Emerging+Software+Engineer...;Frontend+Development+Enthusiast...;AI+Innovator...;Data+Science+Enthusiast...;Problem+Solver...;Nice+To+Meet+You+....&center=true" />
 </p>
 
 <h3 align="center">A Curious Developer and Software Engineer, open to opportunities.</h3>
