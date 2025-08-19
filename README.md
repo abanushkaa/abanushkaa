@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **abanushka678@gmail.com**
 
-- 📄 Know about my experiences [https://shorturl.at/TVw8x](https://shorturl.at/TVw8x)
+- 📄 Know about my experiences [https://shorturl.at/gVpHN](https://shorturl.at/gVpHN)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
