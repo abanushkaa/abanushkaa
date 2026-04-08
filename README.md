@@ -11,12 +11,11 @@
 
 - 💬 Ask me about **JAVA, JavaScript, React**
   
-- 👨‍💻 All of my projects are available at  my PORTFOLIO [https://anushka-baranwal-g5zed01.gamma.site/](https://anushka-baranwal-g5zed01.gamma.site/)
+- 👨‍💻 All of my projects are available at  my PORTFOLIO [https://theanushkadev.netlify.app/](https://theanushkadev.netlify.app/)
 
 - 📫 How to reach me **abanushka678@gmail.com**
 
-- 📄 Know about my experiences [https://shorturl.at/gVpHN](https://shorturl.at/gVpHN)
-
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/abanushka678/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abanushka678/" height="30" width="40" /></a>
