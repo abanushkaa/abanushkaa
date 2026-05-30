@@ -6,9 +6,9 @@
 
 <h3 align="center">A Curious Developer and Software Engineer, open to opportunities.</h3>
 
-- 🔭 I’m currently working on **Creating my very own React Js.**  
-- 🌱 I’m currently learning **Node Js, Backend Development**  
-- 💬 Ask me about **Java, JavaScript, React**  
+- 🔭 I’m currently working on **Langcahins and Fine Tuning**  
+- 🌱 I’m currently learning **RAG MODELS - INTERNAL WORKING**  
+- 💬 Ask me about **Java, Python, JavaScript, React**  
 - 👨‍💻 Portfolio: https://theanushkadev.netlify.app/  
 - 📫 Reach me: **abanushka678@gmail.com**
 
