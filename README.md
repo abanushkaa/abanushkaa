@@ -6,7 +6,7 @@
 
 <h3 align="center">A Curious Developer and Software Engineer, open to opportunities.</h3>
 
-- 🔭 I’m currently working on **Langcahins and Fine Tuning**  
+- 🔭 I’m currently working on **Langchains and Fine Tuning**  
 - 🌱 I’m currently learning **RAG MODELS - INTERNAL WORKING**  
 - 💬 Ask me about **Java, Python, JavaScript, React**  
 - 👨‍💻 Portfolio: https://theanushkadev.netlify.app/  
