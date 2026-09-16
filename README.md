@@ -12,7 +12,7 @@
 - 👨‍💻 More about me: [Portfolio](https://theanushkadev.netlify.app/)
 - 💬 Ask me about **Java, Python, JavaScript, React, LangChain/LangGraph, RAG pipelines**
 - 📫 Reach me at **abanushka678@gmail.com**
-- 📄 [My Resume](PASTE_YOUR_RESUME_LINK_HERE)
+- 📄 [My Resume](https://drive.google.com/file/d/1e24W1Y935fQmi4l5FWRzhwihkhX3Msrp/view?usp=drive_link)
 
 ---
 
